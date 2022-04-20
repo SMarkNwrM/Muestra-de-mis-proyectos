@@ -1,0 +1,2 @@
+###
+En esta página retrato algunos de los aspectos básicos del uso de html y css, tales como el trabajo de formularios, media queries, y la adaptabilidad a dispositivos, a su vez se muestra también el uso general de etiquetas comúnes en html
